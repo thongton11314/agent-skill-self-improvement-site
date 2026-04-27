@@ -2,7 +2,7 @@
 
 Showcase website for [SkillForge](https://github.com/thongton11314/agent-skill-self-improvement) — a self-evolving skill synthesis framework for AI systems.
 
-**Live site:** [https://thongton11314.github.io/website-agent-skill-self-improvement/](https://thongton11314.github.io/website-agent-skill-self-improvement/)
+**Live site:** [https://thongton11314.github.io/agent-skill-self-improvement-site/](https://thongton11314.github.io/agent-skill-self-improvement-site/)
 
 ## Overview
 
@@ -21,7 +21,7 @@ The website showcases:
 ## Project Structure
 
 ```
-website-agent-skill-self-improvement/
+agent-skill-self-improvement-site/
 ├── .github/
 │   └── workflows/
 │       └── deploy-website.yml   # GitHub Pages deployment workflow
